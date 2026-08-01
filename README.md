@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0506-relative-ranks) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0229-majority-element-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
