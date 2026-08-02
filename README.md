@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0229-majority-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
