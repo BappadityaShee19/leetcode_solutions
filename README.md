@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
