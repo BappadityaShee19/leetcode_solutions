@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 ## Prefix Sum
 |  |
 | ------- |
