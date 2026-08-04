@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3783-mirror-distance-of-an-integer](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## String
