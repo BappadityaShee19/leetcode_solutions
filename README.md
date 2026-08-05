@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
