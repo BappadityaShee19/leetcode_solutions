@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [3467-transform-array-by-parity](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## Math
