@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
 |  |
 | ------- |
