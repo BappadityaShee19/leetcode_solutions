@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2974-minimum-number-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
@@ -183,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
