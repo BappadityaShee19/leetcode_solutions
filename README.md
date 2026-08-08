@@ -66,18 +66,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0938-range-sum-of-bst](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0938-range-sum-of-bst](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0938-range-sum-of-bst](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0938-range-sum-of-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2974-minimum-number-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
