@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3731-find-missing-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1025-divisor-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
