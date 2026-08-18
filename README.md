@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
