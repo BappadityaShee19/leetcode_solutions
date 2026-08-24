@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0938-range-sum-of-bst](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0938-range-sum-of-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0938-range-sum-of-bst](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0938-range-sum-of-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0938-range-sum-of-bst](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0938-range-sum-of-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Linked List
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Hash Table
 |  |
