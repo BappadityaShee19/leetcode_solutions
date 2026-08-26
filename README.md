@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
+| [3668-restore-finishing-order](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3668-restore-finishing-order](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3945-digit-frequency-score) |
