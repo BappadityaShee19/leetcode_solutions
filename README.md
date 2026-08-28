@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2974-minimum-number-game) |
+| [3701-compute-alternating-sum](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search Tree
 |  |
