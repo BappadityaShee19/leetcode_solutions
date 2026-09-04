@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0292-nim-game) |
+| [0504-base-7](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1025-divisor-game) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0504-base-7) |
 | [1021-remove-outermost-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
