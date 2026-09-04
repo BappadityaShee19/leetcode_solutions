@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0504-base-7) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1021-remove-outermost-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
