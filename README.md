@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2278-percentage-of-letter-in-string](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Divide and Conquer
