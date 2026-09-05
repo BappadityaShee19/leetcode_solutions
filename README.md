@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1025-divisor-game) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1929-concatenation-of-array) |
