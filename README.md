@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [1025-divisor-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1025-divisor-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0113-path-sum-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0113-path-sum-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0504-base-7) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0938-range-sum-of-bst](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0938-range-sum-of-bst) |
 ## Brainteaser
 |  |
