@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2000-reverse-prefix-of-word](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2278-percentage-of-letter-in-string](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2278-percentage-of-letter-in-string) |
@@ -303,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0062-unique-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 <!---LeetCode Topics End-->
