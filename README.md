@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [0463-island-perimeter](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0463-island-perimeter](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0938-range-sum-of-bst](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0938-range-sum-of-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0463-island-perimeter](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Hash Table
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0463-island-perimeter](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [1672-richest-customer-wealth](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
