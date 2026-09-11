@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
