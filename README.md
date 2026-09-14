@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [1025-divisor-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1025-divisor-game) |
+| [1668-maximum-repeating-substring](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
 | [1816-truncate-sentence](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0645-set-mismatch) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
