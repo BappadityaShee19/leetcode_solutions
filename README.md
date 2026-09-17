@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1693-daily-leads-and-partners](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1693-daily-leads-and-partners) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
