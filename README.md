@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0500-keyboard-row) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0455-assign-cookies](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [2000-reverse-prefix-of-word](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Counting
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
