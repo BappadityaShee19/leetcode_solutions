@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1025-divisor-game) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
