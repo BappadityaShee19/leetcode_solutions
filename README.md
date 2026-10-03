@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3668-restore-finishing-order](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3668-restore-finishing-order) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
