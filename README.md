@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [1025-divisor-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1025-divisor-game) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0115-distinct-subsequences](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0412-fizz-buzz) |
