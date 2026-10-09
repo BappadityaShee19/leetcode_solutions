@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
 | [1816-truncate-sentence](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1816-truncate-sentence) |
