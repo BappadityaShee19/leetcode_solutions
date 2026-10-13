@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0228-summary-ranges) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0409-longest-palindrome) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [1672-richest-customer-wealth](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
