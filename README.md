@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0500-keyboard-row) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0349-intersection-of-two-arrays](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bracket Sequences
 |  |
 | ------- |
