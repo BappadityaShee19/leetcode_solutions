@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2974-minimum-number-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [1025-divisor-game](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1668-maximum-repeating-substring](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2278-percentage-of-letter-in-string](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2278-percentage-of-letter-in-string) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Divide and Conquer
