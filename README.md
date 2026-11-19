@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0412-fizz-buzz) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BappadityaShee19/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
